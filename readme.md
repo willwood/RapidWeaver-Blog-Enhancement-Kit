@@ -16,10 +16,6 @@ Currently the Blog Enhancement Kit includes the following features:
 
 ![RapidWeaver Blog Enhancement Kit Features](rapidweaver-blog-enhacement-kit-features.jpg "Title")
 
-##Demo
-I use the Blog Enhancement Kit on my blog:
-[http://willwoodgate.com](http://willwoodgate.com)
-
 ##How does it work?
 The Blog Enhancement Kit is a clever, combined collection of multiple jQuery Javascript scripts and plugins; some of which are already publicly available on the internet and others which have been coded exclusively for this addon. Each has been commented, so you can go-through and delete any functionality you do not require or adjust any settings.
 
@@ -44,7 +40,7 @@ As well as adding the Javascript code to your Page Inspector JavaScript box, Blo
 ##Compatibility
 It should be emphasised that the Blog Enhancement Kit is only scoped, tested and compatible with [ThemeFlood RapidWeaver themes](https://themeflood.com), straight out of the box. Every RapidWeaver theme company produces themes of different structure, quality and integrity; therefore making a 'one size fits all' blog enhancement plugin unfeasible. For example, some RapidWeaver themes continue to load Javascript at the top of the page and others are without support for jQuery or Font Awesome icons. Blog Enhancement Kit certainly could be made to work with lots of themes from other companies, but you would need an understanding of Javascript code to make it work. Or [hire me](https://themeflood.com/support) to do it for you.
 
-The Blog Enhancement Kit can work on websites protected with an SSL certificate (https://). It will work on pages ending with either a .html or .php file extension. The social sharing buttons are completely independent with no reliance on any outside sharing services. The Blog Enhancement Kit has been tested with both RapidWeaver 5 and RapidWeaver 6.
+The Blog Enhancement Kit can work on websites protected with an SSL certificate (https://). It will work on pages ending with either a .html or .php file extension. The social sharing buttons are completely independent with no reliance on any outside sharing services. The Blog Enhancement Kit has been tested with both RapidWeaver 5 and upwards.
 
 ##Muut comment setup
 Although a relatively new company, [Muut](https://muut.com/) provides a simple and clean commenting system that works really well on RapidWeaver websites. Simply go to the Muut website and signup for a new account. When prompted to choose between commenting or forums, choose commenting. You'll be give two lines of code like this:
